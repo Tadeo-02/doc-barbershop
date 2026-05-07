@@ -40,7 +40,7 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Listado de historial de cortes para clientes<br>2. Listado de historial de cortes para barberos|
+|Listados |1. Listado de historial de cortes para clientes<br>2. Listado de historial de cortes para barberos<br>3. Listado de Clientes para administrador<br>4. Listado de rentabilidad por sucursal para administrador|
 |CUU/Epic|-|
 |Otros|-|
 
