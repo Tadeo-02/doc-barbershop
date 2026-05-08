@@ -14,7 +14,7 @@ Información detallada para desarrolladores sobre el frontend, backend y estruct
 | Documento | Descripción |
 |---|---|
 | Documentación de la API | Documentación de la API, incluyendo endpoints, métodos HTTP, autenticación y medidas de seguridad. |
-| Documentación del Backend | Guías de instalación, configuración del entorno y estructura del proyecto. |
+| Documentación | Guías de instalación, configuración del entorno y estructura del proyecto. |
 
 ---
 
@@ -32,4 +32,4 @@ Información detallada para desarrolladores sobre el frontend, backend y estruct
 | Documento | Descripción |
 |---|---|
 | Deploy | Enlace al sistema desplegado y disponible para su uso. |
-| Demo de la Aplicación (Video) | Video demostrativo mostrando el funcionamiento y las principales características del sistema. |
+| [Demo de la Aplicación (Video)](https://drive.google.com/file/d/1VNx0IySdUl9J2x9JcU7e1AgVrSK_pJwr/view?usp=sharing) | Video demostrativo mostrando el funcionamiento y las principales características del sistema |
