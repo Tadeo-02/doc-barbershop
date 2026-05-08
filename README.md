@@ -14,7 +14,7 @@ Información detallada para desarrolladores sobre el frontend, backend y estruct
 | Documento | Descripción |
 |---|---|
 | Documentación de la API | Documentación de la API, incluyendo endpoints, métodos HTTP, autenticación y medidas de seguridad. |
-| Documentación | Guías de instalación, configuración del entorno y estructura del proyecto. |
+| Documentación del Proyecto| Guías de instalación, configuración del entorno y estructura del proyecto. |
 
 ---
 
