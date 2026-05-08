@@ -23,7 +23,7 @@ Información detallada para desarrolladores sobre el frontend, backend y estruct
 | Documento | Descripción |
 |---|---|
 | Gestión del Proyecto | Información sobre la metodología de trabajo, planificación, asignación de tareas y seguimiento del avance. |
-| Tablero de Tareas | Enlace al tablero o herramienta utilizada para el seguimiento de tareas y organización del equipo. |
+| [Tablero de Tareas](https://github.com/Tadeo-02/Barbershop/blob/main/TODO.md) | Enlace al tablero o herramienta utilizada para el seguimiento de tareas y organización del equipo. |
 
 ---
 
