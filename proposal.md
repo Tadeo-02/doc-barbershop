@@ -13,7 +13,7 @@
 Sistema de gestión de turnos de una barbería que cuenta con varias sucursales y barberos. El sistema deberá registrar a los clientes quienes podrán solicitar turnos con los diferentes barberos. Por otro lado, el barbero será capaz de gestionar los turnos solicitados. Los clientes tendrán diferentes categorías que les permitirán acceder a descuentos, y para eso se llevará un historial de todos los turnos solicitados por cada cliente. El sistema ofrecerá la opción de realizar la facturación del corte una vez atendido al cliente.
 
 ### Modelo
-![image](public/images/dsw-MD.jpg)
+![image](MD-DSW.jpg)
 
 
 ## Alcance Funcional 
